@@ -1,0 +1,29 @@
+{
+  "identifier": "7C3D9E21",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "500",
+      "familyShareable": false,
+      "internalID": "6820999001",
+      "localizations": [
+        {
+          "description": "すべての欄・証人欄・署名練習・ぼかしが使えます",
+          "displayName": "全機能（買い切り）",
+          "locale": "ja"
+        }
+      ],
+      "productID": "jp.hayatosuzuki.koninnazori.premium",
+      "referenceName": "Premium",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_storefront": "JPN"
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 4,
+    "minor": 0
+  }
+}
